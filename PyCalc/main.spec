@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\ZgreenZ\\YandexDisk\\Python_projects\\PyCalc'],
+             pathex=['.\\PyCalc'],
              binaries=[],
              datas=[('Sourses/Py_Calc_icon.gif','Sourses')],
              hiddenimports=[],
