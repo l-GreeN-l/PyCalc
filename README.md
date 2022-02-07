@@ -2,20 +2,20 @@
 
 
 
-          This is simple calculator code with Python + PyQT
-          The program is written as an example and for education
+This is simple calculator code with Python + PyQT. 
+The program is written as an example and for education. 
 
 ## Buildings: 
 [Pyinstaller](https://pypi.org/project/pyinstaller/)
         
-        This project use Pyinstaller. File main.spec is config file for building
-        In main.spec, in "pathex" write correct full path to programm
+This project use Pyinstaller. File main.spec is config file for building. 
+In main.spec, in "pathex" write correct full path to programm. 
         
         
 After use this command:        
-```sh        
-pyinstaller main.py main.spec
-```        
+      
+          pyinstaller main.py main.spec
+        
         
 ## Useful links
 | Resurs name | Links |
